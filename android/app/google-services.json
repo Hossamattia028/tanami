@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "210658228051",
+    "firebase_url": "https://tasks-4fe22-default-rtdb.firebaseio.com",
+    "project_id": "tasks-4fe22",
+    "storage_bucket": "tasks-4fe22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210658228051:android:e69ae5b6b086550af213a6",
+        "android_client_info": {
+          "package_name": "com.example.kiosk_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUyt-KW0ee0oa69CorJjoc5PTCTKuiSoc"
+        },
+        {
+          "current_key": "AIzaSyA1GRNyZTH4egQm-24Czr095oSM1ECLecM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210658228051:android:035164474a9b430ff213a6",
+        "android_client_info": {
+          "package_name": "com.example.task_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUyt-KW0ee0oa69CorJjoc5PTCTKuiSoc"
+        },
+        {
+          "current_key": "AIzaSyA1GRNyZTH4egQm-24Czr095oSM1ECLecM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
