@@ -4,6 +4,9 @@ using bloc and clean architecture (feature first) , using get_it to create depen
 
 - this structure and flow i am using it to help me for unit testing  .
 
+- create auth feature by firebase 
+- using mocked api from mockapi site 
+
 - view simple list of items  & item details (can set current item by bloc state)
 
 thanks for your consideration . 
